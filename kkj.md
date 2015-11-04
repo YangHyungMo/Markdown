@@ -17,11 +17,11 @@
 [김경준의 github](https://github.com/juniair)
 
 *본론1*  
-![markdownImg](http://cfile10.uf.tistory.com/image/274BC53A54579BF23059EE "Inline Sytle")
+![markdownImg](http://cfile10.uf.tistory.com/image/274BC53A54579BF23059EE "Inline Style")
 
 *본론2*  
 ![gitHib Logo][logo]
-[logo]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png "gitHub Logo"
+[logo]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png "gitHub Logo is Reference Style"
 
 *결론*
  - 표1
