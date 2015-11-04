@@ -9,7 +9,7 @@
  3. 성별
  	- 남
 
-
+*서론*
 >안녕하세요
 
 *충격과 공포다 이 그지깽깽이들아**  
@@ -20,4 +20,24 @@
 | 이 름  | 성 별 | 나 이 |
 |------- |-------|-------|
 |'박성균'|   남  | 24    |
+
+*본론*  
+![gitHib Logo][logo]
+[logo]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzcnxR8bZEQjVh1qP-daOoC9qMo8n2doJacwxhQqAqLCRS-U-a-w "gitHub Logo is Reference Style"
+
+*결론*
+
+ - 소스 코드
+```cpp
+	#include <stdio.h>
+	
+	int main()
+	{
+		printf('나는야 성균");
+	}
+```
+
+ * https://github.com/skp9221
+ * [스크립트][scriptGit]   
+[scriptGit]: https://github.com/skp9221
 
