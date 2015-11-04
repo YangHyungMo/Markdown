@@ -14,7 +14,6 @@
 *서론1*
 **안녕하세요**
 *서론2*
-[김경준의 github](https://github.com/juniair)
 
 *본론1*  
 ![markdownImg](http://cfile10.uf.tistory.com/image/274BC53A54579BF23059EE "Inline Style")
