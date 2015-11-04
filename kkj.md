@@ -41,10 +41,6 @@
 ```
 
 
-*참고자료*
-[김경준의 github](https://github.com/juniair)
-[스크립트 github][scriptGit]
-
 *참고자료*  
  * [김경준의 github](https://github.com/juniair)  
  * [스크립트 github][scriptGit]   
