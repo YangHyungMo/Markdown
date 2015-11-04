@@ -7,17 +7,16 @@
  	- 24
  3. 성별
  	- 남
- 4. 학교
-        - 한국기술교육대
+
 
 **안녕하세요**
 
 *본론1*  
-![markdownImg](http://cfile10.uf.tistory.com/image/274BC53A54579BF23059EE "Inline Style")
+![markdownImg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmApNPuN_a5ZS8I5YDM1CGCNhJVKHz5A7ZQEem_gg1NoU9r6TzPQkDr_I "Inline Style")
 
 *본론2*  
 ![gitHib Logo][logo]
-[logo]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png "gitHub Logo is Reference Style"
+[logo]: http://flash365.dreamx.com/game/revol_getimg.php?id=humor&no=34651&num=0&fc=0af2e0172bd0aa7903d23f27dd41ba3a "gitHub Logo is Reference Style"
 
 *결론*
  - 표1
