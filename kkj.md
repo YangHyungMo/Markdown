@@ -48,7 +48,6 @@
 
 *참고자료*  
  * [김경준의 github](https://github.com/juniair)  
- * [스크립트 github][scriptGit]
-> 'Markdown Cheatsheet'를 활용
-
+ * [스크립트 github][scriptGit]   
 [scriptGit]: https://github.com/juniair/Python
+> 'Markdown Cheatsheet'를 활용
