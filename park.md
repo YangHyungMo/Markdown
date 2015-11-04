@@ -1,15 +1,16 @@
 
 #2010136048 박성균
+
 ###나는 누구인가
  1. 이름
- 	- 박성균
+ 	- **박성균**
  2. 나이
- 	- 24
+ 	- *24*
  3. 성별
  	- 남
 
 
-**안녕하세요**
+>안녕하세요
 
 *본론*  
 ![markdownImg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmApNPuN_a5ZS8I5YDM1CGCNhJVKHz5A7ZQEem_gg1NoU9r6TzPQkDr_I "Inline Style")
